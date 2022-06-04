@@ -1,0 +1,14 @@
+package day7;
+
+import java.util.Arrays;
+
+public class SortingElements {
+
+	public static void main(String[] args)
+	{
+		int a[]= {100,500,200,300,400};
+		System.out.println("Before sorting "+ Arrays.toString(a));
+		
+	}
+
+}

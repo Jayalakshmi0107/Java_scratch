@@ -1,0 +1,26 @@
+package day4;
+
+public class NumberPositiveOrNegative {
+
+	public static void main(String[] args) {
+
+		char  i='A';
+		if(i>0)
+		{
+			System.out.println(i+ " Number is positive");
+		}
+		else if(i<0)
+		{
+			System.out.println(i+ " Number is negative");
+		}
+		else if(i==0)
+		{
+			System.out.println(i+ " Number is zero");
+		}
+		else
+		{
+			System.out.println(i+ " wrong input");
+		}
+	}
+
+}

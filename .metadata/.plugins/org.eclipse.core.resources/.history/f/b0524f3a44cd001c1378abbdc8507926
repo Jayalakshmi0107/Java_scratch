@@ -1,0 +1,22 @@
+package day4;
+
+public class Test {
+
+	public static void main(String[] args) {
+		if(false)
+		{
+			System.out.println("abc");
+			System.out.println("abc");
+			System.out.println("abc");
+		}
+		
+		else
+		{
+			System.out.println("xyz");
+			System.out.println("abc");
+			System.out.println("abc");
+		}
+		
+	}
+
+}
